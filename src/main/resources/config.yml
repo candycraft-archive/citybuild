@@ -1,0 +1,54 @@
+# TwiceSystem Configuration
+
+# Lizenz:
+lizenz: LIZENZ
+
+# Mysql Login Daten:
+host: HOSTNAME
+user: USERNAME
+password: PASSWORD
+database: DATABASENAME
+
+admin-permission: twice.admin
+vip-permission: twice.vip
+anvil-permission: twice.anvil
+fill-permission: twice.fill
+goldswitch-permission: twice.goldswitch
+zaubertisch-permission: twice.zaubertisch
+potions-permission: twice.potions
+bodysee-permission: twice.bodysee
+
+# Perks: 
+perks:
+  doublejump:
+    perm: perks.doublejump
+  nowaterdamage:
+    perm: perks.nowaterdamage
+  nofiredamage:
+    perm: perks.nofiredamage
+  potionclear:
+    perm: perks.potionclear
+  keepxp:
+    perm: perks.keepxp
+  doublexp:
+    perm: perks.doublexp
+  nohunger:
+    perm: perks.nohunger
+  itemname:
+    perm: perks.itemname
+  dropper:
+    perm: perks.dropper
+  arrowpotion:
+    perm: perks.arrowpotion
+  nightvision:
+    perm: perks.nightvision
+  antipoison:
+    perm: perks.antipoison
+  mobspawner:
+    perm: perks.mobspawner
+  timber: 
+    perm: perks.timber
+  runner:
+    perm: perks.runner
+respawn-items: true
+item-name-perk: true

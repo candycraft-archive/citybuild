@@ -1,0 +1,29 @@
+name: TwiceSystem
+author: 1Bims1Paul
+main: net.twerion.twicesystem.skypvp.TwiceSystem
+version: 1.0
+
+depend: [Multiverse-Core, Vault, ProtocolLib]
+
+commands:
+    clearlagg:
+    fill:
+    goldconvert:
+        aliases: [goldswitch]
+    bodysee:
+    giveall:
+        aliases: [ga]
+    potion:
+        aliases: [potions, braustand]
+    zaubertisch:
+       aliases: [enchanting]
+    anvil:
+       aliases: [amboss]
+    resetstats:
+    perks:
+    friede:
+    stats:
+    ranking:
+    handeln:
+    skid:
+    globalmute:
